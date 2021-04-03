@@ -1,2 +1,3 @@
 # 3d_airway_segmentation
-3D airway segmentation method
+Please refer to "Alleviating Class-wise Gradient Imbalance for Pulmonary Airway Segmentation".
+More details will be added soon.
